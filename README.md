@@ -1,7 +1,6 @@
-# Blog app
+## Blog App
 
-Constructing a blog app with [Jumpstart Lab’s Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html)
+_An introduction to Ruby on Rails by creating a simple blog app._
 
-Visit the result [here](https://powerful-falls-45808.herokuapp.com/)
-
-From The Odin Project's [curriculum](https://www.theodinproject.com/lessons/ruby-on-rails-ruby-on-rails)
+* Following along [Jumpstart Lab's Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html)
+* Check the result [here](https://powerful-falls-45808.herokuapp.com/)
